@@ -1,4 +1,3 @@
 Hi I updated from person 1
 
-after gitignore
 
